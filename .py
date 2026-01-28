@@ -1,0 +1,2 @@
+print("Get")
+print ("scAMMED")
